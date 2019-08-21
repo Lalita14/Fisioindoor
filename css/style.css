@@ -618,35 +618,6 @@ section#contact .form-group textarea.form-control {
   height: 248px;
 }
 
-.prices-coupons__product {
-	transition:transform .4s
-}
-
-.prices-coupons__product:hover {
-	box-shadow:0 28px 45px 0 rgba(0,0,0,.2);
-	transform:scale(1.1);z-index:20
-}
-
-.prices-coupons__product__image {
-	width:273px
-}
-
-.prices-coupons__product__h {
-	font-size:1.6875em
-}
-
-.prices-coupons__numbers__title {
-	font-size:1.3125em
-}
-
-.prices-coupons__numbers__amount {
-	font-size:3em
-}
-
-.prices-coupons__numbers__unit {
-	font-size:1.3125em
-}
-
 section#contact .form-control:focus {
   border-color: #fed136;
   -webkit-box-shadow: none;
