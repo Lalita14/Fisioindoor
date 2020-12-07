@@ -8,3 +8,15 @@
     margin: 0;
     font-family: LatinaW00-UltraLight;
  }
+
+ .modal-body-privacy{
+   text-align: justify;
+ }
+
+ .privacy-policy-header{
+   text-align: center;
+ }
+
+ b.modal-body-privacy{
+   text-align: center;
+ }
